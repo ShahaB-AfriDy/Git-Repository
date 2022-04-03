@@ -1,2 +1,2 @@
 
-print("Equal!=equal"*4)
+print("Equal!=equal")
