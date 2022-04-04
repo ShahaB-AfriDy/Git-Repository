@@ -1,5 +1,6 @@
 
-print("Equal!=equal")
+print("Equal != equal")
 
-List = [1,2,3,3]
+List = [1,2,3,4,5]
+
 print(List)
